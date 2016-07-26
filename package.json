@@ -1,7 +1,7 @@
 {
-  "name": "game-time-starter-kit",
+  "name": "Web-Keys",
   "version": "1.0.0",
-  "description": "A starter kit for Turing School's Game Time project.",
+  "description": "An in-browser synthesizer",
   "main": "index.js",
   "scripts": {
     "start": "./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/turingschool-examples/game-time-starter-kit.git"
+    "url": "https://github.com/patrickwhardy/web-keys"
   },
-  "author": "Steve Kinney",
+  "author": "Patrick Hardy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/turingschool-examples/game-time-starter-kit/issues"
+    "url": "https://google.com"
   },
-  "homepage": "https://github.com/turingschool-examples/game-time-starter-kit",
+  "homepage": "https://github.com/patrickwhardy/web-keys",
   "devDependencies": {
     "babel": "^5.8.3",
     "babel-core": "^5.7.4",
@@ -32,5 +32,10 @@
     "style-loader": "^0.12.3",
     "webpack": "^1.10.1",
     "webpack-dev-server": "^1.10.1"
+  },
+  "dependencies": {
+    "octavian": "^2.2.0",
+    "web-midi-api": "^1.4.4",
+    "webaudio": "^2.0.0"
   }
 }
