@@ -32,5 +32,10 @@
     "style-loader": "^0.12.3",
     "webpack": "^1.10.1",
     "webpack-dev-server": "^1.10.1"
+  },
+  "dependencies": {
+    "octavian": "^2.2.0",
+    "web-midi-api": "^1.4.4",
+    "webaudio": "^2.0.0"
   }
 }
