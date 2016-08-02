@@ -1,10 +1,11 @@
 .dropbtn {
     background-color: #4CAF50;
     color: white;
-    padding: 16px;
+    padding: 10px;
     font-size: 16px;
     border: none;
     cursor: pointer;
+    margin-bottom: 10px;
 }
 
 .dropbtn:hover, .dropbtn:focus {
@@ -34,3 +35,7 @@
 .dropdown-content a:hover {background-color: #f1f1f1}
 
 .show {display:block;}
+
+body {
+  text-align: center;
+}
