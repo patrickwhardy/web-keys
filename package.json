@@ -34,6 +34,7 @@
     "webpack-dev-server": "^1.10.1"
   },
   "dependencies": {
+    "jquery": "^3.1.0",
     "octavian": "^2.2.0",
     "web-midi-api": "^1.4.4",
     "webaudio": "^2.0.0"
