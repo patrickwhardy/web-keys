@@ -1,2 +1,15 @@
-Web-Keys is a hand rolled midi synthesizer built with the Web-Midi-Api and Web-Audio-Api.
-Simply plug in your midi keyboard and jam away.
+Web-Keys is a hand rolled midi synthesizer built by Patrick Hardy with the Web-Midi-Api and Web-Audio-Api.
+
+Simply plug in your midi keyboard, open the application in Google Chrome and jam away.
+
+[Live Here](http://patrickwhardy.github.io/)
+
+![alt tag](./screenshot.png)
+
+To run locally:
+``` bash
+git clone https://github.com/patrickwhardy/web-keys.git
+cd web-keys
+npm install
+npm start
+```
