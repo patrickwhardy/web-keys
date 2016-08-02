@@ -5,7 +5,7 @@
     font-size: 16px;
     border: none;
     cursor: pointer;
-    margin-bottom: 10px;
+    margin: 10px;
 }
 
 .dropbtn:hover, .dropbtn:focus {
@@ -38,4 +38,32 @@
 
 body {
   text-align: center;
+  background-image: url("http://wallup.net/wp-content/uploads/2016/05/26/369256-music-moog-digital_art-vintage-synthesizer.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a {
+}
+
+.logo {
+  font-family: 'Pacifico';
+  display: inline;
 }

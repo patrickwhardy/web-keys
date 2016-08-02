@@ -3,12 +3,14 @@
 <head>
   <meta charset="utf-8">
   <link rel="stylesheet" type="text/css" href="style.css">
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
   <title>Web-Keys</title>
 </head>
 <body>
-  <container style="text-align:center;width100%;">
-  <h1>Welcome to Web-Keys</h1>
-  <h4>A Web Audio MIDI Synthsizer</h4>
+  <ul>
+    <li><h1 class="logo">Welcome to Web-Keys</h1></li>
+    <li><h4>A Web Audio MIDI Synthsizer</h4></li>
+  </ul>
     <div class="dropdown">
     <button class="dropbtn">Select a Waveform</button>
     <div id="myDropdown" class="dropdown-content">
@@ -18,7 +20,6 @@
     </div>
   </div>
   <canvas id="main-canvas" width="1000px" height="450"></canvas>
-  </container>
   <script src="main.bundle.js"></script>
 </body>
 </html>
