@@ -2,7 +2,7 @@ Web-Keys is a hand rolled midi synthesizer built by Patrick Hardy with the Web-M
 
 Simply plug in your midi keyboard, open the application in Google Chrome and jam away.
 
-Check out a demo [here](https://www.youtube.com/watch?v=cMIRmDqgVWg)
+Check out a demo [here](https://www.youtube.com/watch?v=pm0fRb7v4EY)
 
 Deployed [here](http://patrickwhardy.github.io/)
 
